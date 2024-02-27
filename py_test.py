@@ -1,2 +1,1 @@
-print('test')
-pirnt('test2')
+print('aaaaa')
